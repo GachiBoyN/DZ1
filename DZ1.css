@@ -1,0 +1,17 @@
+.back_img{
+    background-image: url(img/chel_tbl.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 828px;
+}
+main{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 3fr;
+}
+.info{
+    background-color:rgba(173, 216, 230, 0.363) ;
+}
+.content_right{
+    height: 828px;;
+}
